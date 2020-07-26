@@ -1,0 +1,6 @@
+C:\Users\LENOVO-1\source\repos\PracticeLesson2607\Clients\bin\Debug\Clients.dll
+C:\Users\LENOVO-1\source\repos\PracticeLesson2607\Clients\bin\Debug\Clients.pdb
+C:\Users\LENOVO-1\source\repos\PracticeLesson2607\Clients\obj\Debug\Clients.csprojAssemblyReference.cache
+C:\Users\LENOVO-1\source\repos\PracticeLesson2607\Clients\obj\Debug\Clients.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO-1\source\repos\PracticeLesson2607\Clients\obj\Debug\Clients.dll
+C:\Users\LENOVO-1\source\repos\PracticeLesson2607\Clients\obj\Debug\Clients.pdb
